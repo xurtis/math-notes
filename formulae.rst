@@ -164,6 +164,14 @@ Differentiation
 
    \end{multicols}
 
+   \[
+      \diff{F(x_{1}, x_{2}, ..., x_{n})}{t}
+         = \diff{F}{x_{1}}\Diff{x_{1}}{t}
+         + \diff{F}{x_{2}}\Diff{x_{2}}{t}
+         + \dotsm
+         + \diff{F}{x_{n}}\Diff{x_{n}}{t}
+   \]
+
 Infinitesimal Calculus
 ======================
 
