@@ -1,6 +1,6 @@
-=======================
- Formulae for Math1231
-=======================
+===================================
+ Formulae for Tertiary Mathematics
+===================================
 
 :Author: Curtis Millar <curtis@xurtis.pw>
 :Date: 25 January, 2019
@@ -78,8 +78,8 @@ Trigonometry
 
    \end{multicols}
 
-The Exponential Function
-========================
+The Exponential & Hyperbolic Trigonometric Functions
+====================================================
 
 .. raw:: latex
 
