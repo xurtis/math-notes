@@ -267,3 +267,32 @@ Infinitesimal Calculus
             \; = \; \cosh^{-1}\frac{x}{a} + C
             \; = \; \ln(x + \sqrt{x^{2} - a^{2}}) + \Diff{C}{x}
    \]
+
+   \pagebreak
+
+Trigonometric and Hyperbolic Substitutions
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: latex
+
+   \renewcommand{\arraystretch}{1.5}
+
+   \begin{center}
+   \begin{tabular}{ |c|c|c| }
+      \hline
+      Expression in integrand &
+      Trigonometric substitution &
+      Hyperbolic substitution \\ [0.2ex]
+      \hline
+      \( \sqrt{a^{2} - x^{2}} \) &
+      \( x = a\sin\theta \) &
+      \( x = a\tanh\theta \) \\
+      \( \sqrt{a^{2} + x^{2}} \) &
+      \( x = a\tan\theta \) &
+      \( x = a\sinh\theta \) \\
+      \( \sqrt{x^{2} - a^{2}} \) &
+      \( x = a\sec\theta \) &
+      \( x = a\cosh\theta \) \\
+      \hline
+   \end{tabular}
+   \end{center}
