@@ -138,7 +138,7 @@ Differentiation
 
    \[ \Diff{x^n}{x} = nx^{n - 1} \]
 
-   \[ \Diff{f(u)}{x} = \Diff{f}{x}(u) \times \Diff{u}{x} \]
+   \[ \Diff{f(u)}{x} = \Diff{f}{u}(u) \times \Diff{u}{x} \]
 
    \[ \Diff{uv}{x} = v\Diff{v}{x} + u\Diff{u}{x} \]
 
