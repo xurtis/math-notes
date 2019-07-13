@@ -140,7 +140,7 @@ Differentiation
 
    \[ \Diff{f(u)}{x} = \Diff{f}{u}(u) \times \Diff{u}{x} \]
 
-   \[ \Diff{uv}{x} = v\Diff{v}{x} + u\Diff{u}{x} \]
+   \[ \Diff{uv}{x} = v\Diff{u}{x} + u\Diff{v}{x} \]
 
    \[
       \Diff{\frac{u}{v}}{x}
